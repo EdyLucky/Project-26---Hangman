@@ -8,6 +8,7 @@ secret_word = random.choice(word_list)
 length_word = len(secret_word)
 # print(secret_word)
 blanks = []
+# test
 
 for _ in range(length_word):
     blanks.append("_")
